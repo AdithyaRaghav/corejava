@@ -30,7 +30,6 @@ public class PersonDemo {
 		System.out.println("Person Details Name : " + p1.getPersonName() + "\tAge : " + p1.getPersonAge() + "\tCity : "
 				+ p1.getPersonCity());
 		sc.close();
-
 	}
 
 }
