@@ -1,0 +1,18 @@
+package Day6.usingfinal;
+
+public class FinalMethodClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		FinalMethodClass() {
+			System.out.println("This is a default constructor");
+		}
+
+		final int a = 50;
+
+		// Final method
+		final void show() {
+			System.out.println("Value of a: " + a);
+	}
+
+}
