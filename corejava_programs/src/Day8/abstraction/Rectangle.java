@@ -19,7 +19,7 @@ public class Rectangle {
 
 			@Override
 			void calArea() {
-				area=width*height;		
+				area=width*height;
 	}
 
 }
