@@ -1,4 +1,4 @@
-package InsufficientBalanceException;
+package day14.synchronization;
 
 public class InsufficientBalanceException {
 
